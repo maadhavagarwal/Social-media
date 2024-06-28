@@ -1,0 +1,18 @@
+.main{
+    background-color:brown;
+}
+.left{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 7%;
+}
+.right {
+    display: flex;
+    justify-content: space-between;
+}
+.right p{
+    margin-right:35px ;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 20px;
+}
